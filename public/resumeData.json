@@ -1,0 +1,83 @@
+{
+  "home": {
+    "name":"Hi there!",
+    "description":"Nordic-Giant Project 를 따라해 봤습니다 :-) \n This page was made with react and antd",
+    "image":"your.png",
+    "job": "your job",
+    "bio":"description",
+    "email": "your@email.com",
+    "phone": "000-000-0000",
+    "github":"https://github.com/kys0017/react-resume-practice",
+    "refsite": "https://nordicgiant2.github.io/react-nice-resume-page/",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"school",
+        "degree":"degree",
+        "graduated":"2000.00",
+        "description":"description"
+      }
+    ],
+    "work":[
+      {
+        "company":"company1",
+        "title":"department / position",
+        "years":"2000.00 - 2999.12",
+        "description": "description",
+        "skills" : [ "javascript", "es6", "vue", "vuex", "vuetify", "axios", "eslint", "prettier", "postgresql", "linux", "node", "intelliJ", "git", "github"]
+      },
+      {
+        "company":"company2",
+        "title":"department / position",
+        "years":"2000.09 - 2999.12",
+        "description":"description",
+        "skills" : ["asp", "javascript", "ajax", "html5", "css3", "jquery", "mssql", "iis", "vscode"]
+      }
+    ],
+    "skills":[
+      {
+        "name":"javascript"
+      },
+      {
+        "name":"es6"
+      },
+      {
+        "name":"vue"
+      },
+      {
+        "name":"react"
+      },
+      {
+        "name":"vuetify"
+      },
+      {
+        "name":"axios"
+      },
+      {
+        "name":"eslint"
+      },
+      {
+        "name":"prettier"
+      },
+      {
+        "name":"node"
+      },
+      {
+        "name":"git"
+      },
+      {
+        "name":"github"
+      },
+      {
+        "name":"notion"
+      }
+    ]
+  }
+}
